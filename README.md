@@ -4,7 +4,7 @@ A Software Developer skilled at technical leadership, technical writing, communi
 
 💬 Ask me about Springboot,  Java
 
-👯 I’m looking to collaborate on any Java Backend Developer 
+👯 I’m looking to collaborate on any Java Backend Development 
 
 🤔 I’m looking for help with new challenges in terms of work
 
